@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: b92b45674da41e34caeb6361fe7269f2
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Hanken Grotesk
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 45a0ba69624efcc459c053e66c05e258, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
